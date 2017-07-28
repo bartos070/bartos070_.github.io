@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+}
+
+form {
+    background-color: #213b50;
+    width: 400px
+}
+
+input[type=submit] {
+    background-color: lawngreen;
+    
+}
